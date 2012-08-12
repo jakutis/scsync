@@ -14,14 +14,14 @@
     },
     "contributors": [],
     "bugs": "https://github.com/tahu/scsync/issues",
-    "licenses": [{
+    "license": {
         "type": "unlicense",
         "url": "https://raw.github.com/tahu/scsync/master/LICENSE"
-    }],
-    "repositories": [{
+    },
+    "repository": {
         "type": "git",
         "url": "git://github.com/tahu/scsync.git"
-    }],
+    },
     "dependencies": {
         "optimist": "0.3.x",
         "step": "0.0.x",
