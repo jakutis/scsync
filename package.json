@@ -1,0 +1,34 @@
+{
+    "name": "scsync",
+    "description": "SoundCloud incoming tracks downloader",
+    "version": "0.0.1",
+    "keywords": ["soundcloud", "scrape", "download", "music", "audio"],
+    "homepage": "https://github.com/tahu/scsync",
+    "maintainers": [{
+        "name": "Vytautas Jakutis",
+        "email": "vytautas@jakut.is",
+        "web": "https://jakut.is/"
+    }],
+    "bin": {
+        "scsync": "./bin/scsync"
+    },
+    "contributors": [],
+    "bugs": "https://github.com/tahu/scsync/issues",
+    "licenses": [{
+        "type": "unlicense",
+        "url": "https://raw.github.com/tahu/scsync/master/LICENSE"
+    }],
+    "repositories": [{
+        "type": "git",
+        "url": "git://github.com/tahu/scsync.git"
+    }],
+    "dependencies": {
+        "optimist": "0.3.x",
+        "step": "0.0.x",
+        "zombie": "1.3.x"
+    },
+    "main": "lib/index.js",
+    "engines": {
+        "node": "*"
+    }
+}
