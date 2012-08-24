@@ -3,7 +3,7 @@
     "description": "SoundCloud incoming tracks downloader",
     "version": "0.1.2",
     "keywords": ["soundcloud", "scrape", "download", "music", "audio"],
-    "homepage": "https://github.com/tahu/scsync",
+    "homepage": "https://jakut.is/git/SCSYNC/about/",
     "maintainers": [{
         "name": "Vytautas Jakutis",
         "email": "vytautas@jakut.is",
@@ -13,14 +13,14 @@
         "scsync": "./bin/scsync"
     },
     "contributors": [],
-    "bugs": "https://github.com/tahu/scsync/issues",
+    "bugs": "mailto:vytautas@jakut.is",
     "license": {
         "type": "unlicense",
-        "url": "https://raw.github.com/tahu/scsync/master/LICENSE"
+        "url": "https://jakut.is/git/SCSYNC/plain/LICENSE"
     },
     "repository": {
         "type": "git",
-        "url": "git://github.com/tahu/scsync.git"
+        "url": "git://jakut.is/SCSYNC"
     },
     "dependencies": {
         "optimist": "0.3.x",
