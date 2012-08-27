@@ -1,7 +1,7 @@
 {
     "name": "scsync",
     "description": "SoundCloud incoming tracks downloader",
-    "version": "0.1.2",
+    "version": "0.1.3",
     "keywords": ["soundcloud", "scrape", "download", "music", "audio"],
     "homepage": "https://jakut.is/git/SCSYNC/about/",
     "maintainers": [{
