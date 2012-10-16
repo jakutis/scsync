@@ -23,11 +23,11 @@
         "url": "git://jakut.is/SCSYNC"
     },
     "dependencies": {
-        "vague-time": "0.1.x",
+        "vague-time": "0.2.x",
         "valentine": "1.5.x",
         "optimist": "0.3.x",
         "async": "0.1.x",
-        "zombie": "1.4.x"
+        "zombie": "2.0.x"
     },
     "main": "lib/index.js",
     "engines": {
