@@ -24,11 +24,9 @@
     },
     "dependencies": {
         "vague-time": "0.4.x",
-        "log4js": "0.5.x",
         "valentine": "1.5.x",
         "optimist": "0.3.x",
-        "async": "0.1.x",
-        "zombie": "2.0.x"
+        "async": "0.1.x"
     },
     "main": "lib/index.js",
     "engines": {
