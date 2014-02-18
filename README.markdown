@@ -2,12 +2,27 @@
 
 SoundCloud incoming tracks downloader.
 
-# install
+- [Overview](#overview)
+- [Installation](#installation)
+- [CLI](#cli)
+- [Development](#development)
 
-Provided you have [NodeJS](http://nodejs.org/) installed, do this:
+## Overview
 
-    npm install -g scsync
+    TODO
 
-![npm stats](https://nodei.co/npm/scsync.png)
+## Installation
 
-![npm download stats](https://nodei.co/npm-dl/scsync.png?months=9)
+  Install with [npm](https://www.npmjs.org/package/scsync):
+
+    $ npm install --global scsync
+
+## CLI
+
+  Run:
+
+    $ scsync
+
+## Development
+
+    TODO
