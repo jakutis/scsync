@@ -14,10 +14,7 @@
     },
     "contributors": [],
     "bugs": "mailto:vytautas@jakut.is",
-    "license": {
-        "type": "MIT",
-        "url": "https://jakut.is/git/SCSYNC/plain/LICENSE"
-    },
+    "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://jakut.is/git/SCSYNC"
